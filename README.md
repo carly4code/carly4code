@@ -18,6 +18,6 @@ A front-end web developer who observed with graphic and design. Coding + Design?
 Data Science📈  
 Processing art👩🏻‍🎨    
 Art🌈  
-Spanish  
-French
+Español  
+Français
 
